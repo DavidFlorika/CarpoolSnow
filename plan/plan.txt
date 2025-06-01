@@ -1,0 +1,5 @@
+CarpoolSnow is a dynamic website.
+
+Functions:
+1. User registration/login
+2. 
