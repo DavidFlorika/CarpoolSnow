@@ -1,7 +1,5 @@
 CarpoolSnow is a dynamic website intended for registered users to post and interact with carpool information.
 
-
-
 Functions
 1. User registration/login
 2. Posting carpool information
@@ -20,7 +18,6 @@ Webpages
         Completed
     About
 
-
 Legend:
 Line with "-" : Functions
 Line without "-" : Webpage
@@ -35,7 +32,6 @@ Home:
         My carpool
         About
     - Annoucements
-
 
 Account
     - Before login
