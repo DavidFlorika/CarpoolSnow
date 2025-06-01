@@ -4,7 +4,7 @@ Functions
 1. User registration/login
 2. Posting carpool information
 3. Interacting with other users' carpool information
-4. Viewing and editing user's existing carpool information
+4. Viewing and editing the user's existing carpool information
 
 Webpages
     Home
@@ -30,14 +30,19 @@ Home:
     - Navigation to:
         Account
         My carpool
+            - Sort
+                - Time (Time Period)
+                - Pickup location (Selection)
         About
-    - Annoucements
+    - Announcements
 
 Account
     - Before login
         Register/login
     - After login
         My info
+            - Pickup Location (Default)
+                - Change Location
         - Log out
 
 My carpool
