@@ -1,13 +1,55 @@
 CarpoolSnow is a dynamic website intended for registered users to post and interact with carpool information.
 
+
+
 Functions
 1. User registration/login
 2. Posting carpool information
 3. Interacting with other users' carpool information
 4. Viewing and editing user's existing carpool information
 
-Webpages:
+Webpages
     Home
-    Carpool information
-    Register/login
+        Resorts
+        Carpool information
+    Account
     My carpool
+        All post
+        Posting
+        Scheduled
+        Completed
+    About
+
+
+Legend:
+Line with "-" : Functions
+Line without "-" : Webpage
+
+Details
+Home:
+    Resorts:
+        - Listed resorts are available for users to post carpool information on
+        
+    - Navigation to:
+        Account
+        My carpool
+        About
+    - Annoucements
+
+
+Account
+    - Before login
+        Register/login
+    - After login
+        My info
+        - Log out
+
+My carpool
+    All Post
+    Posting
+    Scheduled
+    Completed
+
+About
+    - Meet the team
+    - Contact Us
