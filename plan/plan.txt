@@ -1,5 +1,13 @@
-CarpoolSnow is a dynamic website.
+CarpoolSnow is a dynamic website intended for registered users to post and interact with carpool information.
 
-Functions:
+Functions
 1. User registration/login
-2. 
+2. Posting carpool information
+3. Interacting with other users' carpool information
+4. Viewing and editing user's existing carpool information
+
+Webpages:
+    Home
+    Carpool information
+    Register/login
+    My carpool
