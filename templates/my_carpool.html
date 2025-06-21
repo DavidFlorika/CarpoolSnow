@@ -1,1 +1,29 @@
-
+<!-- my_carpool.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CarpoolSnow - My Carpool</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <nav>
+    <div>CarpoolSnow</div>
+    <div>
+      <a href="/">Home</a>
+      <a href="/mycarpool">My Carpool</a>
+      <a href="/about">About</a>
+      <a href="/account">Account</a>
+    </div>
+  </nav>
+  <main>
+    <h2>My Carpool</h2>
+    <ul>
+      <li><a href="#">All Post</a></li>
+      <li><a href="#">Posting</a></li>
+      <li><a href="#">Scheduled</a></li>
+      <li><a href="#">Completed</a></li>
+    </ul>
+  </main>
+</body>
+</html>
